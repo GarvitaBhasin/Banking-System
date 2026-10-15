@@ -1,0 +1,6 @@
+Garvita,garvitagmail.com,1234,SAV,8740271418
+aarushi,aarushi@gmail.com,1243,SAV,7054668284
+dikshita,dikshita@gmail.com,3456,SAV,1328453563
+arnav,arnav@gamil.com,9876,SAV,7604624147
+dikshita,dikshita@gmail.com,1009,SAV,6067788148
+akshay,akki@gmail.com,1234,SAV,4525536082
